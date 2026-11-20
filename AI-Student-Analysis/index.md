@@ -74,7 +74,7 @@ hipotez kurulur.
 
 H<sub>0</sub>: $\sigma_{1}^{2} = \sigma_{2}^{2}$
 
-H<sub>1</sub>:${\ \sigma}_{1}^{2} \neq \sigma_{2}^{2}$**<u>  
+H<sub>1</sub>:$H_1: \sigma_1^2 \neq \sigma_2^2$**<u>  
 </u>**
 
 **<u>Çıktı</u>**
