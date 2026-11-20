@@ -288,15 +288,15 @@ anlamlı bir fark bulunamamıştır.
 
 3.  **<u>Bağımsızlık Kontrolü</u>**
 
-> H<sub>0</sub>: Öğrencilerin okudukları anadal ile yapay zekayı etik
-> bulma dereceleri aralarında istatistiksel bir ilişki yoktur.
->
-> H<sub>1</sub>: Öğrencilerin okudukları anadal ile yapay zekayı etik
-> bulma dereceleri aralarında istatistiksel bir ilişki vardır.
->
-> **<u>Çıktı</u>**
->
-> <img src="./media/image9.png" style="width:2.6419in;height:4.45872in" />
+H<sub>0</sub>: Öğrencilerin okudukları anadal ile yapay zekayı etik
+bulma dereceleri aralarında istatistiksel bir ilişki yoktur.
+
+H<sub>1</sub>: Öğrencilerin okudukları anadal ile yapay zekayı etik
+bulma dereceleri aralarında istatistiksel bir ilişki vardır.
+
+**<u>Çıktı</u>**
+
+<img src="./media/image9.png" style="width:2.6419in;height:4.45872in" />
 
 Yapılan Ki-kare bağımsızlık testi sonucunda **p-değeri 0,319** olarak
 hesaplanmıştır. Bu değer, belirlenen anlamlılık düzeyinden büyük olduğu
