@@ -81,9 +81,9 @@ H<sub>1</sub>: $\sigma_{1}^{2} \neq \sigma_{2}^{2}$**<u>
 
 <img src="./media/image2.png" style="width:2.98333in;height:4.475in" />
 
-Levene testine göre p-değeri **0.094** olarak bulunmuştur. Bulunan bu
-değer, belirlenen α=0.05 anlamlılık düzeyinden büyük olduğu için (0.094
-\> 0.05) **H<sub>0​</sub> hipotezi reddedilemez**.
+> Levene testine göre p-değeri **0.094** olarak bulunmuştur. Bulunan bu
+> değer, belirlenen α=0.05 anlamlılık düzeyinden büyük olduğu için (0.094
+> \> 0.05) **H<sub>0​</sub> hipotezi reddedilemez**.
 
 **<u>Yorum</u>**
 
@@ -94,10 +94,10 @@ zaman sürelerine ait varyansların homojen olduğu sonucuna varılmıştır.
 
 <img src="./media/image3.png" style="width:2.45855in;height:4.6254in" />
 
-Minitab iki örneklem t-testi sonuçlarına göre **p-değeri 0.452** olarak
-bulunmuştur. Bulunan bu değer, belirlenen α=0.05 anlamlılık düzeyinden
-büyük olduğu için (0.452 \> 0.05) **H<sub>0</sub>​ hipotezi
-reddedilemez**.
+> Minitab iki örneklem t-testi sonuçlarına göre **p-değeri 0.452** olarak
+> bulunmuştur. Bulunan bu değer, belirlenen α=0.05 anlamlılık düzeyinden
+> büyük olduğu için (0.452 \> 0.05) **H<sub>0</sub>​ hipotezi
+> reddedilemez**.
 
 **<u>Güven Aralığı</u>**
 
@@ -131,10 +131,10 @@ değildir.
 <img src="./media/image4.png"
 style="width:3.10027in;height:4.55039in" />
 
-Minitab çıktısında yer alan test sonuçlarına göre, Levene testinin
-**p-değeri 0.331** olarak bulunmuştur. Bulunan bu değer, belirlenen
-α=0.05 anlamlılık düzeyinden büyük olduğu için (0.331 \> 0.05)
-**H<sub>0</sub>​ hipotezi reddedilemez**.
+> Minitab çıktısında yer alan test sonuçlarına göre, Levene testinin
+> **p-değeri 0.331** olarak bulunmuştur. Bulunan bu değer, belirlenen
+> α=0.05 anlamlılık düzeyinden büyük olduğu için (0.331 \> 0.05)
+> **H<sub>0</sub>​ hipotezi reddedilemez**.
 
 **<u>Güven Aralığı</u>**
 
@@ -206,11 +206,11 @@ ortalamaları arasında istatistiksel olarak anlamlı bir fark vardır.
 <img src="./media/image6.png"
 style="width:3.21736in;height:2.96667in" />
 
-Minitab bağımlı t-testi sonuçlarına göre **p-değeri 0.000** olarak
-bulunmuştur. Bulunan bu değer, belirlenen 0.05 anlamlılık düzeyinden
-küçük olduğu için **H<sub>0</sub>​ hipotezi kesin olarak reddedilir**. Bu
-durum, öğrencilerin yapay zeka öncesi ve sonrası not ortalamaları
-arasında istatistiksel olarak anlamlı bir fark olduğunu kanıtlamaktadır.
+> Minitab bağımlı t-testi sonuçlarına göre **p-değeri 0.000** olarak
+> bulunmuştur. Bulunan bu değer, belirlenen 0.05 anlamlılık düzeyinden
+> küçük olduğu için **H<sub>0</sub>​ hipotezi kesin olarak reddedilir**. Bu
+> durum, öğrencilerin yapay zeka öncesi ve sonrası not ortalamaları
+> arasında istatistiksel olarak anlamlı bir fark olduğunu kanıtlamaktadır.
 
 **<u>Güven Aralığı</u>**
 
@@ -244,14 +244,14 @@ dağılımı ile beklenen dağılım arasında fark vardır.
 <img src="./media/image7.png"
 style="width:4.33371in;height:2.68357in" />
 
-Ki-kare uyum iyiliği testi sonucuna göre **p-değeri 0,684** olarak
-bulunmuştur. Bulunan bu değer, belirlenen anlamlılık düzeyinden büyük
-olduğu için (0,684 \> 0,05) **H<sub>0</sub> hipotezi reddedilemez**.
+> Ki-kare uyum iyiliği testi sonucuna göre **p-değeri 0,684** olarak
+> bulunmuştur. Bulunan bu değer, belirlenen anlamlılık düzeyinden büyük
+> olduğu için (0,684 \> 0,05) **H<sub>0</sub> hipotezi reddedilemez**.
 
-Tablodaki "Observed" (Gözlenen) ve "Expected" (Beklenen) değerleri
-incelendiğinde; her bir kategori için beklenen kişi sayısı 16,66 iken,
-gözlenen değerlerin (19, 14, 17) bu sayıya oldukça yakın olduğu
-görülmektedir.
+> Tablodaki "Observed" (Gözlenen) ve "Expected" (Beklenen) değerleri
+> incelendiğinde; her bir kategori için beklenen kişi sayısı 16,66 iken,
+> gözlenen değerlerin (19, 14, 17) bu sayıya oldukça yakın olduğu
+> görülmektedir.
 
 **<u>Yorum</u>**
 
@@ -274,9 +274,9 @@ zeka aracı tercihleri arasında fark vardır.
 <img src="./media/image8.png"
 style="width:3.55864in;height:4.41705in" />
 
-Yapılan Ki-kare testi sonucunda **p-değeri 0,191** olarak bulunmuştur.
-Bulunan bu değer, belirlenen α=0,05 anlamlılık düzeyinden büyük olduğu
-için (0,191 \> 0,05) **H<sub>0​</sub> hipotezi reddedilemez**.
+> Yapılan Ki-kare testi sonucunda **p-değeri 0,191** olarak bulunmuştur.
+> Bulunan bu değer, belirlenen α=0,05 anlamlılık düzeyinden büyük olduğu
+> için (0,191 \> 0,05) **H<sub>0​</sub> hipotezi reddedilemez**.
 
 **<u>Yorum</u>**
 
@@ -298,9 +298,9 @@ bulma dereceleri aralarında istatistiksel bir ilişki vardır.
 
 <img src="./media/image9.png" style="width:2.6419in;height:4.45872in" />
 
-Yapılan Ki-kare bağımsızlık testi sonucunda **p-değeri 0,319** olarak
-hesaplanmıştır. Bu değer, belirlenen anlamlılık düzeyinden büyük olduğu
-için (0,319 \> 0,05) **H<sub>0</sub> hipotezi reddedilemez**.
+> Yapılan Ki-kare bağımsızlık testi sonucunda **p-değeri 0,319** olarak
+> hesaplanmıştır. Bu değer, belirlenen anlamlılık düzeyinden büyük olduğu
+> için (0,319 \> 0,05) **H<sub>0</sub> hipotezi reddedilemez**.
 
 **<u>Yorum</u>**
 
